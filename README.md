@@ -17,12 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gaurav sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gaurav-sharma-9556b2196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-sharma-9556b2196" height="30" width="40" /></a>
 <a href="https://instagram.com/gaurav_rdj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav_rdj" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/little_krishna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="little_krishna" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gauravsharma2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gauravsharma2002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/little_krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="little_krishna" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<little_krishna>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<little_krishna>/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/little_krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="little_krishna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
