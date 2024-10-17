@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravrdj" alt="gauravrdj" /></a> </p>
 
-- 🔭 I’m currently working on **Payments App**
+- 🔭 I’m currently working on **Delivery System**
 
 - 🌱 I’m currently learning **Docker, AWS, DevOps**
 
