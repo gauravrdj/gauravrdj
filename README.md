@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gauravjdh2021@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bkK0rbCDXaYeSko1fPzij4-RfkDLsoMc/view](https://drive.google.com/file/d/1bkK0rbCDXaYeSko1fPzij4-RfkDLsoMc/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Dtmmy9eLY4wuk4nWAJyn5nuR3GrHs75J/view?usp=drive_link](https://drive.google.com/file/d/1Dtmmy9eLY4wuk4nWAJyn5nuR3GrHs75J/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
